@@ -5,7 +5,6 @@ import BlogPostListEmpty from './BlogListEmpty'
 import PaginationSimple from './PaginationSimple'
 import { useEffect, useState } from 'react'
 import { debounce } from 'lodash'
-import { AdSlot } from '@/components/GoogleAdsense'
 /**
  * 文章列表分页表格
  * @param page 当前页
@@ -61,7 +60,7 @@ const BlogListPage = ({ page = 1, posts = [], postCount, siteInfo }) => {
           ))}
           {siteConfig('ADSENSE_GOOGLE_ID') && (
             <div className='p-3'>
-                <AdSlot type='flow'/>
+                
             </div>
           )}
 
