@@ -539,13 +539,3 @@ const BLOG = {
 }
 
 module.exports = BLOG
-
-
-
-
-
-
-social:
-  # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=2900502480 || icon-QQ || faa-tada
