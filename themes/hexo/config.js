@@ -36,3 +36,15 @@ const CONFIG = {
   HEXO_WIDGET_TOC: true // 移动端悬浮目录
 }
 export default CONFIG
+
+
+
+# social settings (社交圖標設置)
+# formal:
+#   icon: link || the description
+social:
+  # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
+  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
+  QQ: https://res.abeim.cn/api/qq/?qq=2900502480 || icon-QQ || faa-tada
+
+  QQ邮箱: mailto:2900502480@qq.com || icon-youxiang || faa-tada
