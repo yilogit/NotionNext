@@ -309,7 +309,7 @@ const BLOG = {
       url: 'http://music.163.com/song/media/outer/url?id=28921691.mp3',
       cover:
         'http://p1.music.126.net/9xcnX1Rvqx-Wl2obH1XSTw==/8887352487401227.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0'
-    }
+    },
     {
       name: 'Yolvan, the Black Winged Huntsman',
       artist: 'Mili',
