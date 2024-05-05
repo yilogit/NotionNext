@@ -310,6 +310,13 @@ const BLOG = {
       cover:
         'http://p1.music.126.net/9xcnX1Rvqx-Wl2obH1XSTw==/8887352487401227.jpg?imageView&thumbnail=360y360&quality=75&tostatic=0'
     }
+    {
+      name: 'Yolvan, the Black Winged Huntsman',
+      artist: 'Mili',
+      url: 'http://music.163.com/song/media/outer/url?id=2140326577.mp3',
+      cover:
+        'http://p1.music.126.net/KSXSSlJ8X3s-xoanyUh1vQ==/109951169450670014.jpg'
+    }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
